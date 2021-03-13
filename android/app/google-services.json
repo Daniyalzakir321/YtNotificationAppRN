@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290634851450",
+    "project_id": "notifications-3c227",
+    "storage_bucket": "notifications-3c227.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290634851450:android:3671379d4e79f4819407c3",
+        "android_client_info": {
+          "package_name": "com.ytnotificationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290634851450-qhdvbff1b6r8bu39273cop0sj0e7vt8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXhs6IzWRrbdpiTKtw8HSlWjcsGO9NrN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290634851450-qhdvbff1b6r8bu39273cop0sj0e7vt8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
