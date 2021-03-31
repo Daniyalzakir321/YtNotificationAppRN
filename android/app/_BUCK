@@ -35,12 +35,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.ytnotificationapp",
+    package = "com.fbads",
 )
 
 android_resource(
     name = "res",
-    package = "com.ytnotificationapp",
+    package = "com.fbads",
     res = "src/main/res",
 )
 

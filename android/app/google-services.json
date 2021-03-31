@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:290634851450:android:3671379d4e79f4819407c3",
+        "mobilesdk_app_id": "1:290634851450:android:c13165e45018daff9407c3",
         "android_client_info": {
-          "package_name": "com.ytnotificationapp"
+          "package_name": "com.fbads"
         }
       },
       "oauth_client": [
